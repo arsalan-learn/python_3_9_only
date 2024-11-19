@@ -1,0 +1,3 @@
+# Specify required Python version
+# This is not strictly enforced by pip but serves as a guideline.
+python==3.9.*
